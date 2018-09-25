@@ -1,0 +1,12 @@
+body {
+  font-family: 'Indie Flower', sans-serif;
+}
+
+h1, h2 {
+  font-family: 'Fira Sans', sans-serif;
+}
+
+img {
+  float: left;
+  margin-left: 200px;
+}
